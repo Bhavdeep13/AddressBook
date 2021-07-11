@@ -1,4 +1,5 @@
 #Bhavdeep Singh Krishnawat
+This is a simple AddressBook project based on Angular
 
 # AddressBook
 
